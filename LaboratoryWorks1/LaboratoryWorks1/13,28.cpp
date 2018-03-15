@@ -1,6 +1,6 @@
 //По заданному радиусу подсчитать объем шара.
 
-#include <stdio.h> // Подключение нужных библеотек
+#include <stdio.h> // Подключение нужных библиотек
 #include <iostream>
 #define PI 3.14
 using namespace std; // Нужно, чтобы не вводить каждый раз std
