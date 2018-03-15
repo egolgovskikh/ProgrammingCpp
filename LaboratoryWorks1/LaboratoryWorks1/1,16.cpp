@@ -18,6 +18,7 @@ int main()
     cin >> number3;
     
     average = (number1 + number2 + number3)/3; // Вычисление среднего арифметического
+    cout << "Среднее арифметическое = ";
     cout << average <<endl; // Вывод среднего арифметического
     
     return 0;
